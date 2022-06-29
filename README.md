@@ -69,6 +69,6 @@
 </br>
 
 <div align="center">
-  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=ErfanMalakouti&theme=dracula" />
-  <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanMalakouti&langs_count=4&theme=dracula" />
+  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=ErfanMalakouti&theme=highcontrast" />
+  <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanMalakouti&langs_count=4&theme=highcontrast" />
 </div>
