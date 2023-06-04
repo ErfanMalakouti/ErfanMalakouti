@@ -36,7 +36,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS"
       width="45" height="45" /></a>
    <a target="_blank" href="https://nextjs.org/"><img
-      src="https://upload.wikimedia.org/wikipedia/commons/archive/8/8e/20230404233502%21Nextjs-logo.svg" alt="NextJS"
+      src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="NextJS"
       width="45" height="45" /></a>
   <a target="_blank" href="https://www.typescriptlang.org/"><img
       src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript"
@@ -49,12 +49,18 @@
       width="45" height="45" /></a>
   <a target="_blank" href="https://github.com/pmndrs/zustand"><img
       src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="zustand"
-      width="60" height="50" /></a>
+      width="65" height="50" /></a>
   <a target="_blank" href="https://jquery.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
       alt="jQuery" width="45" height="45" /></a>
+  <a target="_blank" href="https://github.com/jaredpalmer/formik"><img
+      src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png"
+      alt="formik" width="45" height="45" /></a>
   <a target="_blank" href="https://sass-lang.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="45"
+      height="45" /></a>
+   <a target="_blank" href="https://styled-components.com/"><img
+      src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png" alt="styledComponent" width="45"
       height="45" /></a>
   <a target="_blank" href="https://material-ui.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
@@ -65,6 +71,12 @@
   <a target="_blank" href="https://tailwindcss.com/"><img
       src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="45"
       height="45" /></a>
+    <a target="_blank" href="https://www.framer.com/motion/"><img
+      src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" alt="framer" width="45"
+      height="45" /></a>
+   <a target="_blank" href="https://www.react-spring.dev/"><img
+      src="https://camo.githubusercontent.com/973c99d17e4ce72d08c4433449045d8391948711f11ac5f328a585e2a7bc8663/68747470733a2f2f692e696d6775722e636f6d2f515a6f776e68672e706e67"
+      alt="react-spring" width="45" height="45" /></a>
   <a target="_blank" href="https://git-scm.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
       height="45" /></a>
