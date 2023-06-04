@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👽, I'm Erfan</h1>
 <h3 align="center">A passionate Front-End developer from Iran, Tehran</h3>
 
+<p align="center">
+  <img src="https://www.horizont.com.hr/posao/frontend-developer.gif">
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
@@ -71,7 +74,9 @@
   <a target="_blank" href="https://getbootstrap.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="Bootstrap" width="45" height="45" /></a>
-  </br>
+ </p>
+ </br>
+ <p align="center">
   <a target="_blank" href="https://tailwindcss.com/"><img
       src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="45"
       height="45" /></a>
@@ -81,9 +86,12 @@
   <a target="_blank" href="https://storybook.js.org/"><img
       src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4"
       alt="storybook" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.chartjs.org/"><img
-      src="https://www.chartjs.org/img/chartjs-logo.svg"
-      alt="chartjs" width="45" height="45" /></a>
+  <a target="_blank" href="https://storybook.js.org/"><img
+      src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4"
+      alt="storybook" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.airtable.com/"><img
+      src="https://w7.pngwing.com/pngs/444/851/png-transparent-airtable-database-spreadsheet-logo-application-software-slack-logo-angle-rectangle-orange-thumbnail.png"
+      alt="airtable" width="45" height="45" /></a>
    <a target="_blank" href="https://lottiefiles.com/"><img
       src="https://image.winudf.com/v2/image1/Y29tLmxvdHRpZWZpbGVzLmFwcF9pY29uXzE2NTE0MDg5NjhfMDE1/icon.png?fakeurl=1&h=240&type=webp" alt="lottiefiles" width="45"
       height="45" /></a>
@@ -94,7 +102,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
       height="45" /></a>
   <a target="_blank" href="https://github.com/"><img
-      src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="github" width="45"
+      src="https://qph.cf2.quoracdn.net/main-qimg-729a22aba98d1235fdce4883accaf81e" alt="github" width="45"
       height="45" /></a>
 </p>
 
@@ -111,7 +119,7 @@
       src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" alt="postman" width="45"
       height="45" /></a>
   <a target="_blank" href="https://nodejs.org/en"><img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="45"
+      src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" alt="nodejs" width="45"
       height="45" /></a>
 </p>
 
