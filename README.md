@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <a href="https://codepen.io/erfanmalakouti"><img
+  <a style="margin-right: 30px;" href="https://codepen.io/erfanmalakouti"><img
       src="https://img.shields.io/badge/-codepen-black?style=for-the-badge&labelColor=f4f4f4&logo=codepen&logoColor=black&link=https://codepen.io/erfanmalakouti/"></a>
   <a href="https://t.me/Erfan_Malakouti"><img
       src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=f4f4f4&logo=telegram&logoColor=f4f4f4link=https://t.me/Erfan_Malakouti/"></a>
