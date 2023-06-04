@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👽, I'm Erfan</h1>
 <h3 align="center">A passionate Front-End developer from Iran, Tehran</h3>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <p align="center">
   <a href="https://codepen.io/erfanmalakouti"><img
       src="https://img.shields.io/badge/-codepen-black?style=for-the-badge&labelColor=f4f4f4&logo=codepen&logoColor=black&link=https://codepen.io/erfanmalakouti/"></a>
@@ -17,11 +15,8 @@
   <a href="https://instagram.com/erfanvito"><img
       src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=f4f4f4&logo=instagram&logoColor=E4405F&link=https://instagram.com/erfanvito/"></a>
 </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 **<p align="center">Languages and Tools</p>**
-
 <p align="center">
   <a target="_blank" href="https://javascript.info/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
@@ -69,10 +64,7 @@
       src="https://image.winudf.com/v2/image1/Y29tLmxvdHRpZWZpbGVzLmFwcF9pY29uXzE2NTE0MDg5NjhfMDE1/icon.png?fakeurl=1&h=240&type=webp" alt="lottiefiles" width="45"
       height="45" /></a>
 </p>
-
-<h2></h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
   <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=ErfanMalakouti&theme=highcontrast" />
   <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanMalakouti&langs_count=4&theme=highcontrast" />
