@@ -86,8 +86,8 @@
   <a target="_blank" href="https://storybook.js.org/"><img
       src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4"
       alt="storybook" width="45" height="45" /></a>
-  <a target="_blank" href="https://storybook.js.org/"><img
-      src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4"
+  <a target="_blank" href="https://www.chartjs.org/"><img
+      src="https://www.chartjs.org/img/chartjs-logo.svg"
       alt="storybook" width="45" height="45" /></a>
   <a target="_blank" href="https://www.airtable.com/"><img
       src="https://w7.pngwing.com/pngs/444/851/png-transparent-airtable-database-spreadsheet-logo-application-software-slack-logo-angle-rectangle-orange-thumbnail.png"
