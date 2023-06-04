@@ -16,7 +16,9 @@
       src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=f4f4f4&logo=instagram&logoColor=E4405F&link=https://instagram.com/erfanvito/"></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 **<p align="center">Languages and Tools</p>**
+
 <p align="center">
   <a target="_blank" href="https://javascript.info/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
