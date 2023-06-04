@@ -119,7 +119,7 @@
       src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" alt="postman" width="45"
       height="45" /></a>
   <a target="_blank" href="https://nodejs.org/en"><img
-      src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" alt="nodejs" width="45"
+      src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodejs" width="45"
       height="45" /></a>
 </p>
 
