@@ -71,13 +71,14 @@
   <a target="_blank" href="https://getbootstrap.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="Bootstrap" width="45" height="45" /></a>
+  </br>
   <a target="_blank" href="https://tailwindcss.com/"><img
       src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="45"
       height="45" /></a>
   <a target="_blank" href="https://www.framer.com/motion/"><img
       src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" alt="framer" width="45"
       height="45" /></a>
-   <a target="_blank" href="https://storybook.js.org/"><img
+  <a target="_blank" href="https://storybook.js.org/"><img
       src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4"
       alt="storybook" width="45" height="45" /></a>
   <a target="_blank" href="https://www.chartjs.org/"><img
@@ -86,14 +87,14 @@
    <a target="_blank" href="https://lottiefiles.com/"><img
       src="https://image.winudf.com/v2/image1/Y29tLmxvdHRpZWZpbGVzLmFwcF9pY29uXzE2NTE0MDg5NjhfMDE1/icon.png?fakeurl=1&h=240&type=webp" alt="lottiefiles" width="45"
       height="45" /></a>
-  <a target="_blank" href="https://lottiefiles.com/"><img
-      src="https://image.winudf.com/v2/image1/Y29tLmxvdHRpZWZpbGVzLmFwcF9pY29uXzE2NTE0MDg5NjhfMDE1/icon.png?fakeurl=1&h=240&type=webp" alt="lottiefiles" width="45"
+  <a target="_blank" href="https://jestjs.io/docs/tutorial-react"><img
+      src="https://avatars.githubusercontent.com/u/103283236?s=280&v=4" alt="jestjs" width="45"
       height="45" /></a>
   <a target="_blank" href="https://git-scm.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
       height="45" /></a>
   <a target="_blank" href="https://github.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="45"
+      src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="github" width="45"
       height="45" /></a>
 </p>
 
@@ -108,6 +109,9 @@
       width="45" height="45" /></a>
   <a target="_blank" href="https://www.postman.com/"><img
       src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" alt="postman" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://nodejs.org/en"><img
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="45"
       height="45" /></a>
 </p>
 
