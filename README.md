@@ -25,16 +25,19 @@
 
 **<h2 align="center">Languages and Tools</h2>**
 
-<p align="center">
+<div align="center">
   <div align="center">
    <a target="_blank" href="https://javascript.info/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
       alt="JavaScript" width="45" height="45" /></a>
    <p>JavaScript</p>
-  </div>  
-  <a target="_blank" href="https://www.w3schools.com/html/"><img
+  </div> 
+  <div align="center">
+   <a target="_blank" href="https://www.w3schools.com/html/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"
       width="45" height="45" /></a>
+    <p>HTML</p>
+  </div> 
   <a target="_blank" href="https://www.w3schools.com/css/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="45"
       height="45" /></a>
@@ -77,9 +80,9 @@
   <a target="_blank" href="https://getbootstrap.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="Bootstrap" width="45" height="45" /></a>
- </p>
+ </div>
  </br>
- <p align="center">
+ <div align="center">
   <a target="_blank" href="https://tailwindcss.com/"><img
       src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="45"
       height="45" /></a>
@@ -107,7 +110,7 @@
   <a target="_blank" href="https://github.com/"><img
       src="https://qph.cf2.quoracdn.net/main-qimg-729a22aba98d1235fdce4883accaf81e" alt="github" width="45"
       height="45" /></a>
-</p>
+</div>
 
 **<p align="center">Also Familiar With</p>**
 
