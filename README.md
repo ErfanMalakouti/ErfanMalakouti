@@ -7,11 +7,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <div>
   <a href="https://codepen.io/erfanmalakouti"><img
       src="https://img.shields.io/badge/-codepen-black?style=for-the-badge&labelColor=f4f4f4&logo=codepen&logoColor=black&link=https://codepen.io/erfanmalakouti/"></a>
-    <p>JavaScript</p>
-  </div>
   <a href="https://t.me/Erfan_Malakouti"><img
       src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=f4f4f4&logo=telegram&logoColor=f4f4f4link=https://t.me/Erfan_Malakouti/"></a>
   <a href="mailto:erfan.malakuti@gmail.com"><img
@@ -29,9 +26,12 @@
 **<h2 align="center">Languages and Tools</h2>**
 
 <p align="center">
-  <a target="_blank" href="https://javascript.info/"><img
+  <div align="center">
+   <a target="_blank" href="https://javascript.info/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
       alt="JavaScript" width="45" height="45" /></a>
+   <p>JavaScript</p>
+  </div>  
   <a target="_blank" href="https://www.w3schools.com/html/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"
       width="45" height="45" /></a>
