@@ -6,23 +6,6 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <a href="https://codepen.io/erfanmalakouti"><img
-      src="https://img.shields.io/badge/-codepen-black?style=for-the-badge&labelColor=f4f4f4&logo=codepen&logoColor=black&link=https://codepen.io/erfanmalakouti/"></a>
-  <a href="https://t.me/Erfan_Malakouti"><img
-      src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=f4f4f4&logo=telegram&logoColor=f4f4f4link=https://t.me/Erfan_Malakouti/"></a>
-  <a href="mailto:erfan.malakuti@gmail.com"><img
-      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:erfan.malakuti@gmail.com/"></a>
-  <a href="https://www.linkedin.com/in/erfan-malakouti"><img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=f4f4f4&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/erfan-malakouti/"></a>
-  <a href="https://wa.me/+989059163822"><img
-      src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&labelColor=f4f4f4&logo=whatsapp&logoColor=25D366&link=https://wa.me/+989059163822/"></a>
-  <a href="https://instagram.com/erfanvito"><img
-      src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=f4f4f4&logo=instagram&logoColor=E4405F&link=https://instagram.com/erfanvito/"></a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 **<h2 align="center">Languages and Tools</h2>**
 
 <div align="center">
@@ -129,3 +112,22 @@
   <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=ErfanMalakouti&theme=highcontrast" />
   <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanMalakouti&langs_count=4&theme=highcontrast" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+**<h2 align="center">Let's Make Contact</h2>**
+
+<p align="center">
+  <a href="https://codepen.io/erfanmalakouti"><img
+      src="https://img.shields.io/badge/-codepen-black?style=for-the-badge&labelColor=f4f4f4&logo=codepen&logoColor=black&link=https://codepen.io/erfanmalakouti/"></a>
+  <a href="https://t.me/Erfan_Malakouti"><img
+      src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=f4f4f4&logo=telegram&logoColor=f4f4f4link=https://t.me/Erfan_Malakouti/"></a>
+  <a href="mailto:erfan.malakuti@gmail.com"><img
+      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:erfan.malakuti@gmail.com/"></a>
+  <a href="https://www.linkedin.com/in/erfan-malakouti"><img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=f4f4f4&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/erfan-malakouti/"></a>
+  <a href="https://wa.me/+989059163822"><img
+      src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&labelColor=f4f4f4&logo=whatsapp&logoColor=25D366&link=https://wa.me/+989059163822/"></a>
+  <a href="https://instagram.com/erfanvito"><img
+      src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=f4f4f4&logo=instagram&logoColor=E4405F&link=https://instagram.com/erfanvito/"></a>
+</p>
