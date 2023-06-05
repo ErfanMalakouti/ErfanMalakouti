@@ -108,11 +108,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=ErfanMalakouti&theme=highcontrast" />
-  <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanMalakouti&langs_count=4&theme=highcontrast" />
-</div>
-
 **<h2 align="center">Let's Make Contact</h2>**
 
 <p align="center">
@@ -129,3 +124,10 @@
   <a href="https://instagram.com/erfanvito"><img
       src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=f4f4f4&logo=instagram&logoColor=E4405F&link=https://instagram.com/erfanvito/"></a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=ErfanMalakouti&theme=highcontrast" />
+  <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanMalakouti&langs_count=4&theme=highcontrast" />
+</div>
