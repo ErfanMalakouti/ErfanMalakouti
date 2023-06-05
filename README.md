@@ -113,8 +113,6 @@
   <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanMalakouti&langs_count=4&theme=highcontrast" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 **<h2 align="center">Let's Make Contact</h2>**
 
 <p align="center">
