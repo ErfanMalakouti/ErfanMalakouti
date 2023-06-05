@@ -26,18 +26,12 @@
 **<h2 align="center">Languages and Tools</h2>**
 
 <div align="center">
-  <div align="center">
    <a target="_blank" href="https://javascript.info/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
       alt="JavaScript" width="45" height="45" /></a>
-   <p>JavaScript</p>
-  </div> 
-  <div align="center">
    <a target="_blank" href="https://www.w3schools.com/html/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"
       width="45" height="45" /></a>
-    <p>HTML</p>
-  </div> 
   <a target="_blank" href="https://www.w3schools.com/css/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="45"
       height="45" /></a>
