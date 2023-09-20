@@ -49,7 +49,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="45"
       height="45" /></a>
   <a target="_blank" href="https://styled-components.com/"><img
-      src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png" alt="styledComponent" width="45"
+      src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="styledComponent" width="45"
       height="45" /></a>
   <a target="_blank" href="https://material-ui.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
